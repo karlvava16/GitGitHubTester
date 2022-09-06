@@ -15,6 +15,9 @@ public:
 	{
 		name = n;
 		age = a;
+	}
+};
+
 class Point
 {
 	int x, y;
