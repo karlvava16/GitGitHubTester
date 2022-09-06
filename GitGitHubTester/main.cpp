@@ -16,22 +16,6 @@ public:
 	}
 };
 
-class Person
-{
-	string name;
-	int age;
-public:
-	Person()
-	{
-		name = "";
-		age = 0;
-	}
-	Person(string n, int a)
-	{
-		name = n;
-		age = a;
-	}
-};
 
 int main()
 {
